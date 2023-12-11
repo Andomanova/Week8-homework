@@ -1,5 +1,5 @@
 body {
-    background-color: #882380;
+    background-color: #eeeeee;
     font-family: 'Poppins', sans-serif;;
 }
 
@@ -54,6 +54,8 @@ header {
     border-radius: 6px;
     color: #4C8D26;
 }
+
+
 
 footer {
     border-top: 1px solid #f9f7fe;
@@ -117,4 +119,11 @@ font-size: 13px;
 
 .weather-forecast-temperature-min {
     opacity: 0.5;
+}
+
+.weather-forecast-icon {
+    width: 88px;
+    height: 88px;
+    display: block;
+    margin: 0 auto;
 }
